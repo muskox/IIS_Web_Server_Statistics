@@ -1,0 +1,1 @@
+This was a quick and dirty project I put together to parse out some basic data points from an IIS server log. I believe this format is standard and could be used for other server logs besides IIS.
